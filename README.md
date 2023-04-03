@@ -102,6 +102,15 @@ An awesome list of foundation models can be found [here](https://github.com/zhen
   Source: filtered from subset of LAION OIG, StackOverflow Question, BigSciense/p3 dataset. Answered by OpenAI API.
   ```
 
+- [Camel Dataset](https://github.com/lightaime/camel)
+
+  Chat dataset
+
+  ```yaml
+  Size: 107K
+  Source: role-playing between AIs (Open AI API)
+  ```
+
 - <s>[Vicuna Dataset](https://github.com/lm-sys/FastChat)</s>
 
   ```yaml
