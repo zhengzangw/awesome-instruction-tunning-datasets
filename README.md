@@ -155,3 +155,7 @@ An awesome list of foundation models can be found [here](https://github.com/zhen
   Cost: Volunteer
   License: CC By NC 4.0; OpenAI terms of use
   ```
+
+## Dataset used in InstructGPT
+
+![InstructGPT](imgs/instructgpt.jpg)
